@@ -1,0 +1,6 @@
+{
+  "name": "Sports Quiz Generator",
+  "description": "An AI-powered sports quiz generator that uses RAG with local historical facts (vector database) and live Google Search grounding to generate engaging, factually accurate multiple-choice sports quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
